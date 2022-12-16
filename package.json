@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-template-ts",
+  "version": "1.0.0",
+  "description": "A discord bot template written in Typescript with the Discord.js npm package.",
+  "main": "src/index.ts",
+  "scripts": {
+    "deploy": "ts-node src/util/deploy-commands.ts && ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmirhanTr3/Discord-Bot-Template-TS.git"
+  },
+  "author": "github.com/EmirhanTr3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmirhanTr3/Discord-Bot-Template-TS/issues"
+  },
+  "homepage": "https://github.com/EmirhanTr3/Discord-Bot-Template-TS#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  }
+}
