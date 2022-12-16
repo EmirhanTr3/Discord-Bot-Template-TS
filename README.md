@@ -4,7 +4,8 @@ If you do not have node.js installed you can install it from [here](https://node
 And make sure to have `ts-node` before continuing. You can install it by running `npm install ts-node`.
 
 First of all you need to install the required packages.
-You can do this by running `npm install` in your terminal.
+- Run `npm init` in your terminal.
+- Run `npm install` in your terminal.
 
 And you can run the bot with the commands below.
 - `ts-node .` to run the bot without deploying the commands.
