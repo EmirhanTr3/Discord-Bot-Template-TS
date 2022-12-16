@@ -33,8 +33,3 @@ export default class readyEvent extends botEvent<"ready"> {
     }
     
 }
-
-//register this event in index.ts, i dont really know how to make a auto registered event
-// ima try the eventhandler shit then
-//ok
-// aspect r u there

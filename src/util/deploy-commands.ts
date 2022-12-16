@@ -28,5 +28,3 @@ const rest = new REST({ version: '10' }).setToken(token);
         console.error(error);
     }
 })();
-
-// i have the getLAlFiles all tsfied lemme copy it
